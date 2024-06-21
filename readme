@@ -1,0 +1,4 @@
+jdk 1.8
+数据库: mysql 5.5.53
+mysql-connector-8.2.0
+下载文件直接导入ideal，修改自己的数据库账号密码，导入student.sql文件
